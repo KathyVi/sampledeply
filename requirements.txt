@@ -1,4 +1,4 @@
-Python == 3.10.12
+
 Flask == 2.2.5
 Werkzeug == 3.0.1
 voila
